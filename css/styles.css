@@ -7,6 +7,43 @@
 .search {
   margin-left: -9px;
 }
+
 .ml-auto {
   margin-left: auto;
+}
+
+.searchbar {
+  width: 200px !important;
+  transition: all 1s;
+}
+.searchbar:focus {
+  width: 400px !important;
+}
+
+.card-flex {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px 0;
+}
+
+.card-flex i {
+  font-size: 35px;
+  color: #808080;
+}
+
+.card-flex div p {
+  color: #3f4f64;
+}
+
+.left-color {
+  border-left: 5px solid #87ceeb;
+}
+.left-color1 {
+  border-left: 5px solid #49cc62;
+}
+.left-color2 {
+  border-left: 5px solid #4a4db4;
+}
+.left-color3 {
+  border-left: 5px solid #ffcd5c;
 }
