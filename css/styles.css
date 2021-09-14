@@ -47,3 +47,7 @@
 .left-color3 {
   border-left: 5px solid #ffcd5c;
 }
+
+.chart-header {
+  margin: 20px 0;
+}
