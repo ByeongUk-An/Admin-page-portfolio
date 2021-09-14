@@ -3,3 +3,10 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.search {
+  margin-left: -9px;
+}
+.ml-auto {
+  margin-left: auto;
+}
